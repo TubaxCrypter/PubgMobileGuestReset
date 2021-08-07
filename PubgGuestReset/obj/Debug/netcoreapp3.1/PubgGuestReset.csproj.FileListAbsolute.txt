@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\PubgGuestReset\PubgGuestReset\bin\Debug\netcoreapp3.1\PubgGuestReset.exe
+C:\Users\Admin\source\repos\PubgGuestReset\PubgGuestReset\bin\Debug\netcoreapp3.1\PubgGuestReset.deps.json
+C:\Users\Admin\source\repos\PubgGuestReset\PubgGuestReset\bin\Debug\netcoreapp3.1\PubgGuestReset.runtimeconfig.json
+C:\Users\Admin\source\repos\PubgGuestReset\PubgGuestReset\bin\Debug\netcoreapp3.1\PubgGuestReset.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\PubgGuestReset\PubgGuestReset\bin\Debug\netcoreapp3.1\PubgGuestReset.dll
+C:\Users\Admin\source\repos\PubgGuestReset\PubgGuestReset\bin\Debug\netcoreapp3.1\PubgGuestReset.pdb
+C:\Users\Admin\source\repos\PubgGuestReset\PubgGuestReset\obj\Debug\netcoreapp3.1\PubgGuestReset.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PubgGuestReset\PubgGuestReset\obj\Debug\netcoreapp3.1\PubgGuestReset.Form1.resources
+C:\Users\Admin\source\repos\PubgGuestReset\PubgGuestReset\obj\Debug\netcoreapp3.1\PubgGuestReset.Properties.Resources.resources
+C:\Users\Admin\source\repos\PubgGuestReset\PubgGuestReset\obj\Debug\netcoreapp3.1\PubgGuestReset.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\PubgGuestReset\PubgGuestReset\obj\Debug\netcoreapp3.1\PubgGuestReset.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PubgGuestReset\PubgGuestReset\obj\Debug\netcoreapp3.1\PubgGuestReset.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PubgGuestReset\PubgGuestReset\obj\Debug\netcoreapp3.1\PubgGuestReset.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PubgGuestReset\PubgGuestReset\obj\Debug\netcoreapp3.1\PubgGuestReset.dll
+C:\Users\Admin\source\repos\PubgGuestReset\PubgGuestReset\obj\Debug\netcoreapp3.1\PubgGuestReset.pdb
+C:\Users\Admin\source\repos\PubgGuestReset\PubgGuestReset\obj\Debug\netcoreapp3.1\PubgGuestReset.genruntimeconfig.cache
