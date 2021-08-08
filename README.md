@@ -1,4 +1,4 @@
-# PubgMobileGuestReset
+# Pubg Mobile Guest Reset
 Pubg Mobile Misafir Oturumu Değiştirme 
 Bu repo gameloop içerisinde yüklü olan pubg mobile guest hesabı sıfırlamaya yarar ve bir C# form ile hazırlanmıştır.
 
